@@ -1,6 +1,4 @@
-# Latent-Factor-Portfolio-Selection
-
-Key Words: PCA / Lasso / Kalman Filter / State Space Model / Lucky Alpha
+### Key Words: PCA / Lasso / Kalman Filter / State Space Model / Lucky Alpha
 
 Files:
 - Ipynb containing the code and quick explanations
